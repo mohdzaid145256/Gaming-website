@@ -1,0 +1,6 @@
+your-project/
+├── client/
+│   ├── index.html
+│   ├── style.css
+│   ├── app.js
+│   └── assets/       # All images/videos
