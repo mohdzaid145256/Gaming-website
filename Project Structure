@@ -1,6 +1,14 @@
-your-project/
-├── client/
-│   ├── index.html
-│   ├── style.css
-│   ├── app.js
-│   └── assets/       # All images/videos
+gaming-website/
+├── index.html
+├── style.css
+├── app.js
+├── assets/
+│   ├── videos/
+│   │   ├── hero-1.mp4
+│   │   └── feature-*.mp4
+│   ├── images/
+│   │   ├── logo.png
+│   │   ├── stones.png
+│   │   └── ...
+├── .gitignore
+└── README.md
